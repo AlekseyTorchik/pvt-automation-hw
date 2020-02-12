@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7fce7d2-4434-4c20-9858-f422a6c71335" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="77" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="TestNG Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xg69LLDUHp41RMmE3LIvjaHUXz" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Lesson_6" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lesson_6" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Personal\Projects\Automation_test_study\lesson_6\Task_6\src\test" />
+      <recent name="D:\Personal\Projects\Automation_test_study\lesson_6\Task_6\src\test\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/Personal/Projects/Automation_test_study/lesson_6/Task_6/src/test/suit.xml">
+    <configuration name="D:/Personal/Projects/Automation_test_study/lesson_6/Task_6/src/test/suit.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task_6" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/suit.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringOperationsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task_6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lesson_6" />
+      <option name="MAIN_CLASS_NAME" value="Lesson_6.StringOperationsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringOperationsTest.testCutSymbolFromString" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task_6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lesson_6" />
+      <option name="MAIN_CLASS_NAME" value="Lesson_6.StringOperationsTest" />
+      <option name="METHOD_NAME" value="testCutSymbolFromString" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringOperationsTest.testRemoveSpacesInString" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task_6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lesson_6" />
+      <option name="MAIN_CLASS_NAME" value="Lesson_6.StringOperationsTest" />
+      <option name="METHOD_NAME" value="testRemoveSpacesInString" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringOperationsTest.testSplitStringOnParts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task_6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lesson_6" />
+      <option name="MAIN_CLASS_NAME" value="Lesson_6.StringOperationsTest" />
+      <option name="METHOD_NAME" value="testSplitStringOnParts" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/Personal/Projects/Automation_test_study/lesson_6/Task_6/src/test/suit.xml" />
+        <item itemvalue="TestNG.StringOperationsTest.testCutSymbolFromString" />
+        <item itemvalue="TestNG.StringOperationsTest.testRemoveSpacesInString" />
+        <item itemvalue="TestNG.StringOperationsTest" />
+        <item itemvalue="TestNG.StringOperationsTest.testSplitStringOnParts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7fce7d2-4434-4c20-9858-f422a6c71335" name="Default Changelist" comment="" />
+      <created>1581455237912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581455237912</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Task_6$D__Personal_Projects_Automation_test_study_lesson_6_Task_6_src_test_suit_xml.ic" NAME="$PROJECT_DIR$/src/test/suit.xml Coverage Results" MODIFIED="1581540542636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Task_6$StringOperationsTest.ic" NAME="StringOperationsTest Coverage Results" MODIFIED="1581532597586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Lesson_6.*</FILTER>
+    </SUITE>
+  </component>
+</project>
