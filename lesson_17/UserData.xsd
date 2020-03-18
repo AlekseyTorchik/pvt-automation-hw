@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name ="Refs">
+   <xs:complexType>
+    <xs:sequence>
+     <xs:element name ="Users">
+      <xs:complexType>
+        <xs:sequence>
+         <xs:element name ="User">
+           <xs:complexType>
+             <xs:sequence>
+              <xs:element name="login" type="xs:string"/>
+              <xs:element name="password" type="xs:string"/>
+             </xs:sequence>
+            <xs:attribute name="id" type="xs:unsignedInt" use="required"/>
+           </xs:complexType>
+         </xs:element>
+        </xs:sequence>
+       </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+   </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Refs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="UserData.xsd">
+  <Users>
+    <User id = "1">
+      <login>testautomation9999</login>
+      <password>asd968574321</password>
+    </User>   
+  </Users>
+</Refs>
