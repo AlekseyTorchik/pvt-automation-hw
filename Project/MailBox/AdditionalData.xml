@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Refs>
+    <Fields>
+        <AdditionalData id = "1">
+            <contactMail>alexeytor4ik@gmail.com</contactMail>
+            <subjectOfLetter>test-test</subjectOfLetter>
+            <messageInLetter>test</messageInLetter>
+            <apiKey>fLBY101brwB0bgW9shn4ZvlTFJp107r109GkHWAuZicTSaCiM110</apiKey>
+            <nameOfNewFolder>newFolder</nameOfNewFolder>
+        </AdditionalData>
+        <AdditionalData id = "2">
+            <methodNameFirstStep>https://api.vk.com/method/wall.post?</methodNameFirstStep>
+            <methodNameSecondStep>https://api.vk.com/method/wall.edit?</methodNameSecondStep>
+            <methodNameThirdStep>https://api.vk.com/method/wall.delete?</methodNameThirdStep>
+            <accessToken>cdcc44f33a1899d45a8a213b9cf445f43fdf555125dcf8af24370051617788a1087cac944386a3437851</accessToken>
+            <ownerIdNumber>13633739</ownerIdNumber>
+            <messageCreate>VK test</messageCreate>
+            <messageEdit>test VK</messageEdit>
+            <versionAPI>5.102</versionAPI>
+        </AdditionalData>
+    </Fields>
+</Refs>
